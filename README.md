@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Mayank Choudhary 👋  <br><br>🎓 Engineering Student  <br>💻 Learning to build with code  <br>🧠 Exploring AI & Large Language Models  <br><br>---<br><br>## 👨‍💻 About Me  <br><br>I am an engineering student focused on building strong fundamentals in computer science while exploring Artificial Intelligence.<br><br>Currently learning and improving in:<br><br>- 🧩 Data Structures & Algorithms (C++)<br>- 🌐 JavaScript (Fundamentals → React)<br>- 🗄️ SQL & Databases<br>- 🤖 Artificial Intelligence basics<br>- 🧠 Large Language Models (LLMs) concepts and applications<br><br>I enjoy understanding how intelligent systems work and how models like LLMs are trained, optimized, and applied in real-world problems.<br><br>---<br><br>## 📚 Current Goals  <br><br>- Solve DSA problems consistently  <br>- Strengthen mathematical & logical thinking  <br>- Build AI-based mini projects  <br>- Explore how LLMs work internally (transformers, training, fine-tuning)<br><br>---<br><br>## 🛠️ Skills  <br><br>- C++  <br>- JavaScript  <br>- SQL  <br>- Git & GitHub  <br>- Basic AI & LLM understanding  <br><br>---<br><br>## 🚀 Long-Term Vision  <br><br>To become a strong AI engineer and contribute to advanced AI systems and intelligent technologies.<br><br>---<br><br>📫 Always learning. Always building. Always improving.
+# Hi, I'm Mayank Choudhary 👋  <br><br>🎓 Engineering Student  <br>💻 Learning C++, JavaScript & SQL  <br>🧠 Exploring AI & Large Language Models  <br><br>I focus on strengthening fundamentals in DSA, problem-solving, and core computer science while building small real-world projects.  <br><br>🚀 Goal: Become a strong software & AI engineer and contribute to advanced AI systems.
 
 
 ## 🌐 Socials:
@@ -16,12 +16,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=mayankkontey1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mayankkontey1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mayankkontey1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mayankkontey1&icon=6&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mayankkontey1&icon=6&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
