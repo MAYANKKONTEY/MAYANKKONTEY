@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Mayank Choudhary 👋  <br><br>🎓 Engineering Student  <br>💻 Learning C++, JavaScript & SQL  <br>🧠 Exploring AI & Large Language Models  <br><br>I focus on strengthening fundamentals in DSA, problem-solving, and core computer science while building small real-world projects.  <br><br>🚀 Goal: Become a strong software & AI engineer and contribute to advanced AI systems.
+# Hi, I'm Mayank Choudhary 👋  <br><br>🎓 Engineering Student  <br>💻 Learning C++, JavaScript & SQL & PYTHON  <br>🧠 Exploring AI & Large Language Models  <br><br>I focus on strengthening fundamentals in DSA, problem-solving, and core computer science while building small real-world projects.  <br><br>🚀 Goal: Become a strong software & AI engineer and contribute to advanced AI systems.
 
 
 ## 🌐 Socials:
